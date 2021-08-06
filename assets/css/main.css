@@ -1,0 +1,7 @@
+.nuxt-link-active {
+  color: red;
+}
+
+.nuxt-link-exact-active {
+  color: gold;
+}
